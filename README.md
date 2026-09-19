@@ -7,3 +7,5 @@ Devices included in my project:
 - led strip (currently WS2812B)
 - electricity usage meter (soon)
 - movement sensor (soon, i have amazing idea to use it)
+
+Goal of this project is to learn Android development, creating microsystems using C++ and Assembly, writing drivers, and creating my own communication protocol for devices via wifi. 
