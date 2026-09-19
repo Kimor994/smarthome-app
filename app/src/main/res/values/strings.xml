@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inteligentny Dom</string>
+    <string name="title_home">Strona główna</string>
+    <string name="title_devices">Urządzenia</string>
+    <string name="title_alerts">Ostrzeżenia</string>
+    <string name="title_settings">Ustawienia</string>
+</resources>
